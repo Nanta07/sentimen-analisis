@@ -1,4 +1,4 @@
-# Sentiment Analysis Review Tokopedia menggunakan Machine Learning
+# Sentiment Analysis Review Tokopedia
 
 ## Ringkasan Proyek
 
